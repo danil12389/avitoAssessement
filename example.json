@@ -3,15 +3,15 @@
     "channels": [
       {
         "channel": "test1",
-        "text": "Hello, world! Danila"
+        "text": "Hello, world!"
       },
       {
         "channel": "test2",
-        "text": "Hello, world? Danila"
+        "text": "Hello, world?"
       },
       {
         "channel": "test3",
-        "text": "Hello, world :) Danila"
+        "text": "Hello, world :)"
       }
     ]
    }
