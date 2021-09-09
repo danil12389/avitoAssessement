@@ -1,0 +1,17 @@
+{
+    "bot_token": "",
+    "channels": [
+      {
+        "channel": "test1",
+        "text": "Hello, world! Danila"
+      },
+      {
+        "channel": "test2",
+        "text": "Hello, world? Danila"
+      },
+      {
+        "channel": "test3",
+        "text": "Hello, world :) Danila"
+      }
+    ]
+   }
