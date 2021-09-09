@@ -4,7 +4,6 @@ import glob
 class JsonReader():
 
     def openAndTransformJson(self, filePath):
-
         if (filePath == -1):
             f = open(glob.glob('*.json')[0])
             result = json.load(f)
